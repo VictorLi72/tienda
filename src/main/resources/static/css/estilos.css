@@ -1,7 +1,7 @@
 #tituloPrincipal{
     color: darkblue;
     font-family: cursive;
-    
+
 }
 
 .parrafoSecundario{
@@ -11,4 +11,14 @@
 
 p{
     background-color: antiquewhite
+}
+
+.contenerdor{
+    top:12%;
+    left: 0;
+    background-color: bisque;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
 }
